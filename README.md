@@ -1,6 +1,6 @@
 Welcome or some shit
 
-📩・**Discord: bigboybigboi#0003**
+📩・**Discord: bigboybigboi#0001**
 <div>&nbsp;</div>
 <a href="https://bigboyxd.tk" target="_blank"> <img src="https://discord.c99.nl/widget/theme-2/982058193335238666.png"/></a>
 <br>
