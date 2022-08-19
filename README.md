@@ -1,4 +1,6 @@
 Welcome or some shit
+I do Python, HTML, JS, CSS, Etc.
+Learning NodeJS, Go, Prolly some other shit
 
 📩・**Discord: bigboybigboi#0001**
 <div>&nbsp;</div>
