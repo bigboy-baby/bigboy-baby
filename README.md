@@ -4,6 +4,8 @@ I do Python, HTML, JS, CSS, Etc.
 <br>
 Learning NodeJS, Go, Prolly some other shit
 
+[![Views](https://hits.dwyl.com/bigboy-baby/bigboy-baby.svg)](https://hits.dwyl.com/bigboy-baby/bigboy-baby.svg)
+
 📩・**Discord: bigboybigboi#0001**
 <div>&nbsp;</div>
 <a href="https://bigboyxd.tk" target="_blank"> <img src="https://discord.c99.nl/widget/theme-2/982058193335238666.png"/></a>
